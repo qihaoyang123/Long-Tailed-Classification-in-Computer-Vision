@@ -35,13 +35,13 @@
 [Contrastive learning of global and local features for medical image segmentation with limited annotations. NIPS 2020](https://arxiv.org/abs/2006.10511)
 
 ## Ensemble
-[Long-tailed Recognition by Routing Diverse Distribution-Aware Experts](https://arxiv.org/abs/2010.01809)
+[Long-tailed Recognition by Routing Diverse Distribution-Aware Experts. 2020](https://arxiv.org/abs/2010.01809)
 
-[Ensemble deep learning: A review](https://arxiv.org/pdf/2104.02395)
+[Ensemble deep learning: A review. 2021](https://arxiv.org/pdf/2104.02395)
 
 
 ## Causal Inference
-[Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991)
+[Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect. NIPS 2020](https://arxiv.org/abs/2009.12991)
 
 ## Federated Learning
 [Federated Visual Classification with Real-World Data Distribution. ECCV 2020](https://arxiv.org/pdf/2003.08082)
