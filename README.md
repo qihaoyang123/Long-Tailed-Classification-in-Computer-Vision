@@ -30,7 +30,7 @@
 [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification. ECCV 2020](https://arxiv.org/abs/2001.01536)
 
 ## Semi-supervised/Unsupervised Learning
-[Rethinking the Value of Labels for Improving Class-Imbalanced Learning. 2020](https://arxiv.org/abs/2006.07529)
+[Rethinking the Value of Labels for Improving Class-Imbalanced Learning. NIPS 2020](https://arxiv.org/abs/2006.07529)
 
 [Contrastive learning of global and local features for medical image segmentation with limited annotations. NIPS 2020](https://arxiv.org/abs/2006.10511)
 
